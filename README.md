@@ -30,7 +30,7 @@ My toolkit includes, but is not limited to:
 ### Frameworks/Libraries: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="angular" alt="angular" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularcli/angularcli-original-wordmark.svg" title="angular" alt="angular" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="50" height="50" />&nbsp;
 </div>
@@ -61,16 +61,16 @@ I'm always on the lookout for new challenges and opportunities to collaborate on
 
 <div id="badges" align="center">
   <br><br>
-  <a href="https://www.linkedin.com/in/kdbrand">
+  <a href="https://www.linkedin.com/in/arijit-ghosal-277361238/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
-  <a href="https://www.twitter.com/mrdebonairfox">
+  <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge" />
   </a>&nbsp;
-  <a href="https://www.instagram.com/mrdebonairfox">
+  <a href="">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge" />
   </a>&nbsp;
-  <a href="mailto:kbrandon319@gmail.com">
+  <a href="mailto:arijitghosal1000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>
 </div>
