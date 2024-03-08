@@ -8,10 +8,7 @@
 # Hey there, it's a pleasure to meet you! 👋
 
 ### About Me
-Welcome to my world of creative domain, I am a Frontend Web Developer, Email Design Specialist, and Creative Designer doing all things creative to make the digital space a more unique and awesome place. I enjoy bringing a static design or idea to life and learning new technologies in the process.
-
-### Experience
-I have over 5 years of expertise in seamlessly blending design, development, and captivating imagery. I've mastered the art of crafting _reusable email components_, _building mobile-responsive campaigns_, and _designing impactful digital ads_ for content creation. My contributions as an Open Source Contributor involve ensuring accessibility and providing valuable resources to support the initiatives of veterans transitioning into tech careers. Let's connect and explore how I can bring my unique blend of skills to your team.
+Hello, I am Arijit Ghosal. I am Front-End Web Developer. "As a Front-End Developer, my mission is to turn your vision into a stunning digital reality. With a creative mindset and a keen eye for detail, I craft visually appealing and user-friendly websites. My goal is to exceed your expectations and help your online presence thrive. Let's work together to make your web design dreams come true.
 
 
 <br><br>
