@@ -30,7 +30,7 @@ My toolkit includes, but is not limited to:
 ### Frameworks/Libraries: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="angular" alt="angular" width="50" height="50"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" title="angular" alt="angular" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="50" height="50" />&nbsp;
 </div>
