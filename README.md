@@ -5,11 +5,6 @@
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/mrdebfx?logo=Twitch&style=for-the-badge">
 </div>
 
-
-<div>
- <img alt="Profile Banner" src="https://res.cloudinary.com/dujkjy2e2/image/upload/v1708700541/kenneth_brandon_5_pahnpi.png">
-</div>
-
 # Hey there, it's a pleasure to meet you! 👋
 
 ### About Me
